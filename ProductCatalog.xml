@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<PhysicianCatalog>
+    <physician id="Flu shots">
+    <name>Flu shots</name>
+		<clinicname>Flu shots Clinic</clinicname>
+		<Doctorname>Dr.Shari Palmer MD</Doctorname>
+		<price>200.0</price>
+		<image>ped1.jpg</image>
+		<type>Pediatrician</type>
+		<location>Marami Pediatric Clinic, Cicero, IL 60804</location>
+		<discount>20.0</discount>
+        <Latitude>41.848301</Latitude>
+		<Longitude>-87.762299</Longitude>
+    </physician>
+		  
+    <physician id="Asthama">
+	<name>Asthama</name>
+    <clinicname>Weissbulth Pediatric Clinic</clinicname>
+		<Doctorname>Dr.Bernadeta Wibisona</Doctorname>
+        <price>100.99</price>
+        <image>ped2.jpg</image>
+        <type>Pediatrician</type>
+		<location>Weissbluth Pediatrics, 737 N Michigan Ave 820, Chicago, IL 60611</location>
+        <discount>10.0</discount>
+		<Latitude>41.896229</Latitude>
+		<Longitude>-87.623459</Longitude>
+         </physician>
+
+    <physician id="Allergies">
+	<name>Allergies</name>
+        <clinicname>Mercy Medical care</clinicname>
+		<Doctorname>Dr.Daneil.D</Doctorname>
+        <price>150.99</price>
+        <image>ped3.jpg</image>
+        <type>Pediatrician</type>
+		<location>2600 S Michigan Ave 314, Chicago, IL 60616</location>
+        <discount>10.0</discount>
+		<Latitude>41.845428</Latitude>
+		<Longitude>-87.623802</Longitude>
+	    </physician>
+	
+    <physician id="Skinlesions">
+	<name>Skinlesions</name>
+        <clinicname> Urgent care</clinicname>
+		<Doctorname>Dr.Riya</Doctorname>
+        <price>170.0</price>
+        <image>der1.jpg</image>
+        <type>Dermatologist</type>
+		<location>Urgent care Immediate Care Center of Westmont, 29 N Cass Ave, Westmont, IL 60559</location>
+        <discount>10.0</discount>
+		<Latitude>41.797120</Latitude>
+		<Longitude>-87.974980</Longitude>
+        </physician>
+	
+	 <physician id="Facial Treatment">
+	 <name>Facial Treatment</name>
+        <clinicname> Absolute Precision skin care</clinicname>
+		<Doctorname>Dr.Nathaneil Morgan</Doctorname>
+        <price>190.0</price>
+        <image>der2.jpg</image>
+        <type>Dermatologist</type>
+		<location>Absolute Precision Skin Care, 1421 W Belmont Ave, Chicago, IL 60657</location>
+        <discount>10.0</discount>
+		<Latitude>41.939499</Latitude>
+		<Longitude>-87.664703</Longitude>
+        </physician>
+	
+	 <physician id="Laser skin rejuvination">
+	 <name>Laser skin rejuvination</name>
+        <clinicname> Pinnacle Dermatology</clinicname>
+		<Doctorname>Dr.Elizabeth Cabera</Doctorname>
+        <price>200.0</price>
+        <image>der3.jpg</image>
+        <type>Dermatologist</type>
+		<location>Pinnacle Dermatology, 320, 2500 S Highland Ave, Lombard, IL 60148</location>
+        <discount>10.0</discount>
+		<Latitude>41.840810</Latitude>
+		<Longitude>-88.011880</Longitude>
+    </physician>
+        
+	 <physician id="Psychiatherapy">
+	 <name>Psychiatherapy</name>
+        <clinicname> Clarity Clinic</clinicname>
+		<Doctorname>Dr.Marie Cria</Doctorname>
+        <price>500.0</price>
+        <image>psy1.jpg</image>
+        <type>Psychiatrist</type>
+		<location>Clarity Clinic Chicago, 1, E Superior St 306, Chicago, IL 60611</location>
+        <discount>10.0</discount>
+		<Latitude>41.895580</Latitude>
+		<Longitude>-87.627970</Longitude>
+    </physician>
+    
+	 <physician id="Lectroconvulsive Therapy Service">
+	 <name>Lectroconvulsive Therapy Service</name>
+        <clinicname>Neuropsychiatric institute</clinicname>
+		<Doctorname>Dr.Stephanie Jones</Doctorname>
+        <price>600.0</price>
+        <image>psy2.jpg</image>
+        <type>Psychiatrist</type>
+		<location>912 S Wood St, Chicago, IL 60612</location>
+        <discount>10.0</discount>
+		<Latitude>41.869860</Latitude>
+		<Longitude>-87.671840</Longitude>
+    </physician>
+	
+	 <physician id="Suboxone Treatment">
+	 <name>Suboxone Treatment</name>
+        <clinicname> Meridian Psychiatric Clinic</clinicname>
+		<Doctorname>Dr.Luran Lee</Doctorname>
+        <price>550.0</price>
+        <image>psy3.jpg</image>
+        <type>Psychiatrist</type>
+		<location>625 N Michigan Ave 2550, Chicago, IL 60611</location>
+        <discount>10.0</discount>
+		<Latitude>41.893059</Latitude>
+		<Longitude>-87.623970</Longitude>
+    </physician>
+  
+ </PhysicianCatalog>
+
+<EyecareCatalog>
+    <eyecare id="Contact lens care">
+	<name>Contact lens care</name>
+        <clinicname>visionworks</clinicname>
+		<Doctorname>Dr.Rosin</Doctorname>
+        <price>250.0</price>
+        <image>opt1.jpg</image>
+        <type>Optometrist</type>
+		<location>4313 S Pulaski Rd, Chicago, IL 60632</location>
+        <discount>10.0</discount>
+		<Latitude>41.835940</Latitude>
+		<Longitude>-87.724320</Longitude>
+    </eyecare>
+	
+	<eyecare id="Glaucoma management">
+	<name>Glaucoma management</name>
+        <clinicname>Mercy Eye Center</clinicname>
+		<Doctorname>Dr.Angie lee</Doctorname>
+        <price>550.0</price>
+        <image>opt2.jpg</image>
+        <type>Optometrist</type>
+		<location>2525 Michigan Avenue 8, Chicago, IL 60616</location>
+        <discount>10.0</discount>
+		<Latitude>41.846851</Latitude>
+		<Longitude>-87.621986</Longitude>
+    </eyecare>
+	
+	<eyecare id="Vision therapy">
+	<name>Vision therapy</name>
+        <clinicname>Laria Eye Clininc</clinicname>
+		<Doctorname>Dr.Laria Hood</Doctorname>
+        <price>400.0</price>
+        <image>opt3.jpg</image>
+        <type>Optometrist</type>
+		<location>8220 W Flagler St, Miami, FL 33144</location>
+        <discount>10.0</discount>
+		<Latitude>25.769920</Latitude>
+		<Longitude>-80.316900</Longitude>
+    </eyecare>
+	
+	<eyecare id="Diabetic eye care">
+	<name>Diabetic eye care</name>
+        <clinicname>Chicago Eye Instittute</clinicname>
+		<Doctorname>Dr.Hood Crunch</Doctorname>
+        <price>40.0</price>
+        <image>oc1.jpg</image>
+        <type>Optician</type>
+		<location>3982 N Milwaukee Ave, Chicago, IL 60641</location>
+        <discount>10.0</discount>
+		<Latitude>41.949770</Latitude>
+		<Longitude>-87.741330</Longitude>
+    </eyecare>
+	
+	<eyecare id="Binocular vision therapy">
+	<name>Binocular vision therapy</name>
+        <clinicname>Illinois eye Institute</clinicname>
+		<Doctorname>Dr.Cicero Nancy</Doctorname>
+        <price>100.0</price>
+        <image>oc2.jpg</image>
+        <type>Optician</type>
+		<location>3241 S Michigan Ave, Chicago, IL 60616</location>
+        <discount>10.0</discount>
+		<Latitude>41.835709</Latitude>
+		<Longitude>-87.623070</Longitude>
+	</eyecare>
+		
+	<eyecare id="LASIK">
+		<name>LASIK</name>
+        <clinicname>Princeton Eye Clininc</clinicname>
+		<Doctorname>Dr.Jonas Blue</Doctorname>
+        <price>70.0</price>
+        <image>oc3.jpg</image>
+        <type>Optician</type>
+		<location>5125 S Princeton Ave, Chicago, IL 60609</location>
+        <discount>10.0</discount>
+		<Latitude>41.800840</Latitude>
+		<Longitude>-87.632680</Longitude>
+    </eyecare>
+		
+	<eyecare id="vision testing">
+		<name>vision testing</name>
+        <clinicname>Center for Orthotics</clinicname>
+		<Doctorname>Dr.Lennon Stella</Doctorname>
+        <price>100.0</price>
+        <image>ort1.jpg</image>
+        <type>Orthoptist</type>
+		<location>2600 S Michigan Ave 309, Chicago, IL 60616</location>
+        <discount>10.0</discount>
+		<Latitude>41.845430</Latitude>
+		<Longitude>-87.623800</Longitude>
+    </eyecare>
+		
+	<eyecare id="Eye laser">
+		<name>Eye Laser</name>
+        <clinicname>TLC eye center"</clinicname>
+		<Doctorname>Dr.Cooper J.G</Doctorname>
+        <price>150.0</price>
+        <image>ort2.jpg</image>
+        <type>Orthoptist</type>
+		<location>4 Westbrook Corporate Center suite 111, Westchester, IL 60154</location>
+        <discount>10.0</discount>
+		<Latitude>41.845370</Latitude>
+		<Longitude>-87.903020</Longitude>
+    </eyecare>
+		
+	<eyecare id="Eye examination">
+		<name>Eye examination</name>
+        <clinicname>Pellini Eyecare</clinicname>
+		<Doctorname>Dr.Ava Max</Doctorname>
+        <price>80.0</price>
+        <image>ort3.jpg</image>
+        <type>Orthoptist</type>
+		<location>328 S Michigan Ave, Chicago, IL 60604</location>
+        <discount>10.0</discount>
+		<Latitude>41.877850</Latitude>
+		<Longitude>-87.624520</Longitude>
+    </eyecare>
+					
+</EyecareCatalog>
+
+
+<DentalCatalog>
+
+        <dental id="Cosmetic dentistry">
+		<name>Cosmetic dentistry</name>
+        <clinicname>Manus Dental Park</clinicname>
+		<Doctorname>Dr.Sigala mark</Doctorname>
+        <price>300.0</price>
+        <image>gd1.jpg</image>
+        <type>General Dentist</type>
+		<location>676 N Michigan Ave, Chicago, IL 60611</location>
+        <discount>10.0</discount>
+		<Latitude>41.894741</Latitude>
+		<Longitude>-87.624939</Longitude>
+		</dental>
+		
+		<dental id="Gum">
+		<name>Gum</name>
+        <clinicname>Chicago Family Dental Center</clinicname>
+		<Doctorname>Dr.Rick Hasley</Doctorname>
+        <price>250.0</price>
+        <image>gd2.jpg</image>
+        <type>General Dentist</type>
+		<location>111 N Wabash Ave Suite 810, Chicago, IL 60602</location>
+        <discount>10.0</discount>
+		<Latitude>41.883480</Latitude>
+		<Longitude>-87.625610</Longitude>
+		</dental>
+		
+		<dental id="Root canal treatment">
+		<name>Root canal treatment</name>
+        <clinicname>Family Dental care Center</clinicname>
+		<Doctorname>Dr.Neha Kanungo</Doctorname>
+        <price>175.0</price>
+        <image>gd3.jpg</image>
+        <type>General Dentist</type>
+		<location>444 W 31st St, Chicago, IL 60616</location>
+        <discount>10.0</discount>
+		<Latitude>41.838280</Latitude>
+		<Longitude>-87.638110</Longitude>
+		</dental>
+		
+		<dental id="Dental">
+		<name>Dental Filling</name>
+        <clinicname>Allcare Orthodontic center</clinicname>
+		<Doctorname>Dr.Brick messy</Doctorname>
+        <price>1000.0</price>
+        <image>orth2.jpg</image>
+        <type>Orthodontist</type>
+		<location>842 W 31st St, Chicago, IL 60608</location>
+        <discount>15.0</discount>
+		<Latitude>41.838150</Latitude>
+		<Longitude>-87.647900</Longitude>
+		</dental>
+		
+		<dental id="Oral surgery">
+		<name>Oral surgery</name>
+        <clinicname>Sonrisa Family Dental</clinicname>
+		<Doctorname>Dr.Liam Payne</Doctorname>
+        <price>400.0</price>
+        <image>end1.jpg</image>
+        <type>Endodontist</type>
+		<location>3450 S Archer Ave, Chicago, IL 60608</location>
+        <discount>20.0</discount>
+		<Latitude>41.831300</Latitude>
+		<Longitude>-87.676510</Longitude>
+		</dental>
+		
+		<dental id="Dental implants">
+		<name>Dental implants</name>
+        <clinicname>Chicago Smiles</clinicname>
+		<Doctorname>Dr.Camilo collens</Doctorname>
+        <price>400.0</price>
+        <image>end2.jpg</image>
+        <type>Endodontist</type>
+		<location>227 W Monroe St 205, Chicago, IL 60606</location>
+        <discount>20.0</discount>
+		<Latitude>41.880539</Latitude>
+		<Longitude>-87.634109</Longitude>
+		</dental>
+		
+		<dental id="Traumatic dental injuries">
+		<name>Traumatic dental injuries</name>
+        <clinicname>Cameo Dental Specialist </clinicname>
+		<Doctorname>Dr.Dean Lewis</Doctorname>
+        <price>600.0</price>
+        <image>end3.jpg</image>
+        <type>Endodontist</type>
+		<location>910 W Van Buren St Suite 600, Chicago, IL 60607</location>
+        <discount>5.0</discount>
+		<Latitude>41.876750</Latitude>
+		<Longitude>-87.650050</Longitude>
+		</dental>
+		
+		<dental id="Occlusion treatment">
+		<name>Occlusion treatment</name>
+        <clinicname>Lee Sandra H DSS</clinicname>
+		<Doctorname>Dr.Nick Sandra</Doctorname>
+        <price>500.0</price>
+        <image>orth1.jpg</image>
+        <type>Orthodontist</type>
+		<location>3447 South Halsted Street, Chicago, IL 60608</location>
+        <discount>5.0</discount>
+		<Latitude>41.831600</Latitude>
+		<Longitude>-87.645981</Longitude>
+		</dental>
+		
+		<dental id="Treating gum disease">
+		<name>Treating gum disease</name>
+        <clinicname>Allcare Orthodontic center</clinicname>
+		<Doctorname>Dr.Brick messy</Doctorname>
+        <price>950.0</price>
+        <image>orth2.jpg</image>
+        <type>Orthodontist</type>
+		<location>842 W 31st St, Chicago, IL 60608</location>
+        <discount>15.0</discount>
+		<Latitude>41.838150</Latitude>
+		<Longitude>-87.647903</Longitude>
+		</dental>
+		 
+		<dental id="Invisalign aligner">
+		<name>Invisalign aligner</name>
+        <clinicname> Orthodontic experts clinic</clinicname>
+		<Doctorname>Dr.Maday Micheal</Doctorname>
+        <price>550.0</price>
+        <image>orth3.jpg</image>
+        <type>Orthodontist</type>
+		<location>1719 W 18th St, Chicago, IL 60608</location>
+        <discount>10.0</discount>
+		<Latitude>41.857651</Latitude>
+		<Longitude>-87.669640</Longitude>
+		</dental>
+</DentalCatalog>
+

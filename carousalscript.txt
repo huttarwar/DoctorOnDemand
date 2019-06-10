@@ -1,0 +1,17 @@
+<script>
+<!-- jqurey script -->
+$(document).ready(function(){
+
+	$('#myCarousel').carousel({
+  interval: 3000
+})
+
+$('.carousel .item').each(function(){
+  var next = $(this).next();
+  if (!next.length) {
+    next = $(this).siblings(':first');
+  }
+  next.children(':first-child').clone().appendTo($(this));
+});
+});
+</script>
